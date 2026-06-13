@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Low latency backend systems**
 
-- 👨‍💻 All of my projects are available at [devsharma26827-svg](devsharma26827-svg)
+- 👨‍💻 All of my projects are available at [devsharma26827-svg](https://github.com/devsharma26827-svg)
 
 - 💬 Ask me about **AI Agents**
 
