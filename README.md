@@ -1,169 +1,265 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:38BDF8&text=Dev%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Dev%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # 👋 Hi, I'm Dev Sharma
 
-### AI Engineer • Agentic AI Builder • Full Stack Developer
+### AI Engineer • Agentic AI Builder • Full Stack Developer • BCA (AI & ML) Student
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=600&size=24&pause=1800&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Production-Ready+AI+Systems;Multi-Agent+AI+Developer;FastAPI+%7C+LangGraph+%7C+React+%7C+Python;Turning+Ideas+Into+Intelligent+Products"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Building+Multi-Agent+AI+Systems;Creating+AI+Automation+Tools;FastAPI+%7C+LangGraph+%7C+React+%7C+Python;Always+Learning+Something+New"/>
 
-![](https://komarev.com/ghpvc/?username=devsharma26827-svg&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=devsharma26827-svg&color=blue&style=for-the-badge)
 
 </div>
 
 ---
 
-## About Me
+# 🚀 About Me
 
-🎓 BCA (AI & ML) Student from India
+I'm **Dev Sharma**, a BCA (AI & ML) student from India who enjoys building AI systems that solve real problems.
 
-🤖 Building AI products powered by intelligent agents
+Instead of making small demo projects, I like building production-style applications such as:
 
-⚡ Passionate about Automation, AI Engineering and scalable software
+- 🤖 Multi-Agent AI Systems
+- 🧠 AI Assistants with Memory
+- 📞 AI Voice Calling Agents
+- ⚡ AI Automation Platforms
+- 🌐 Full Stack AI Applications
+- 🔍 Intelligent Code Review Systems
 
-🚀 Goal: Build production-ready AI products that solve real-world problems
+I believe AI should save people's time by automating repetitive work.
 
 ---
 
-## Current Focus
+# 🔥 Currently Working On
 
-<table>
-<tr>
+### 🚀 ProjectPilot AI
 
-<td width="50%">
+An AI software engineering platform powered by multiple specialized agents.
 
-### 🚀 Building
+Features include:
 
-- ProjectPilot AI
-- Cynthia AI Assistant
-- Multi-Agent Systems
-- AI Automation Tools
+- Project Analysis
+- Code Review
+- Security Scan
+- Documentation Generation
+- Bug Detection
+- AI Chat
+- Architecture Review
+- API Testing
+- GitHub Analysis
 
-</td>
+---
 
-<td width="50%">
+### 🤖 Cynthia AI Assistant
 
-### 📚 Learning
+A real-time AI Assistant inspired by Jarvis.
+
+Features:
+
+- Live Voice Conversation
+- Memory
+- Multi-device Communication
+- FastAPI Backend
+- LiveKit
+- Gemini AI
+- Automation
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![PHP](https://skillicons.dev/icons?i=php)
+
+## Frameworks
+
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![React](https://skillicons.dev/icons?i=react)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+## AI
 
 - LangGraph
+- LangChain
+- Gemini API
+- OpenAI
+- Cohere
+- FAISS
+- RAG
+- Multi-Agent Systems
+- AI Automation
+- Prompt Engineering
+
+## Databases
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+
+## DevOps
+
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+# 📌 Featured Projects
+
+## 🚀 ProjectPilot AI
+
+A complete AI Software Engineering Platform powered by multiple intelligent agents.
+
+✔ AI Code Review
+
+✔ Project Analysis
+
+✔ Documentation Generator
+
+✔ Security Scanner
+
+✔ Bug Detection
+
+✔ Architecture Review
+
+✔ GitHub Analysis
+
+---
+
+## 🤖 Cynthia
+
+Production-ready real-time AI Assistant.
+
+Features:
+
+- Voice AI
+- Long-term Memory
+- LiveKit
+- FastAPI
+- Multi-device Support
+- AI Tools
+
+---
+
+## 🎯 Intelligent Candidate Ranking System
+
+AI-powered hiring assistant built for hackathons.
+
+- Resume Ranking
+- Semantic Search
+- FAISS
+- Embeddings
+- AI Evaluation
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsharma26827-svg&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsharma26827-svg&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devsharma26827-svg&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devsharma26827-svg&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏅 Built multiple AI Projects
+
+🏅 Participated in AI Hackathons
+
+🏅 Building production-ready Multi-Agent Systems
+
+🏅 Exploring Agentic AI
+
+🏅 Open Source Enthusiast
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Agentic AI
+- LangGraph
 - MCP
+- AI Automation
 - Docker
 - Kubernetes
 - Cloud Deployment
-
-</td>
-
-</tr>
-</table>
+- Scalable Backend Systems
 
 ---
 
-## Tech Stack
+# 🎯 2026 Goals
 
-<div align="center">
+✅ Build an AI SaaS
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,nodejs,docker,git,github,mysql,postgres,sqlite,linux,vscode,html,css,js,php"/>
+⬜ Reach 500+ GitHub Contributions
 
-</div>
+⬜ Contribute to Open Source
 
-<br>
+⬜ Deploy Production AI Systems
 
-<div align="center">
-
-**AI**
-
-LangChain • LangGraph • Gemini • OpenAI • Cohere • FAISS • RAG • Vector Search • AI Automation • Prompt Engineering
-
-</div>
+⬜ Win National Hackathons
 
 ---
 
-# Featured Projects
+# 🤝 Connect With Me
 
-| Project | Description |
-|----------|-------------|
-| 🤖 **Cynthia AI** | Real-time AI Assistant with Memory, Voice and Multi-device Communication |
-| 🚀 **ProjectPilot AI** | Multi-Agent AI Platform for Project Analysis, Code Review & Documentation |
-| 🎯 **AI Candidate Ranking** | Intelligent Resume Screening & Semantic Search System |
-| 🌐 **ForgePilot AI** | Full Stack AI Workspace for Developers |
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devsharma26827-svg&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsharma26827-svg&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=devsharma26827-svg&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devsharma26827-svg&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 2026 Goals
-
-☑ Build production-ready AI systems
-
-☑ Contribute to Open Source
-
-☑ Win AI Hackathons
-
-⬜ Launch an AI SaaS
-
-⬜ Reach 1000+ GitHub Contributions
-
----
-
-## Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/devsharma26827-svg">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
+<p align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINK">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/devsharma26827-svg">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 <a href="mailto:devsharma26827@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### "Building AI that thinks, automates and creates real impact."
+### 💡 "I enjoy building AI systems that solve real-world problems through automation, intelligent agents, and practical software engineering."
 
 ⭐ Thanks for visiting my profile!
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:38BDF8"/>
