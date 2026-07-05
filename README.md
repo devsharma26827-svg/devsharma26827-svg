@@ -120,7 +120,7 @@ Outside of coding, I enjoy exploring new AI technologies, participating in hacka
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/dev-sharma-774054396/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
