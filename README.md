@@ -40,13 +40,6 @@ Outside of coding, I enjoy exploring new AI technologies, participating in hacka
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,php,react,nextjs,nodejs,fastapi,tailwind,mysql,postgres,sqlite,docker,git,github,linux,vscode&perline=10"/>
 
-</p>
-
----
-
-# 🤖 AI & Machine Learning
-
-<p align="center">
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=openai,googleai,langchain,pytorch,tensorflow,huggingface"/>
 
